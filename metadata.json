@@ -1,0 +1,6 @@
+{
+  "name": "Thai Documentary Voiceover Studio",
+  "description": "Professional Thai Documentary Voiceover generator powered by Gemini 3.8 Flash TTS",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
